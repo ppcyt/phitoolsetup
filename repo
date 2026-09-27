@@ -1,9 +1,9 @@
 {
   "version_code": 1,
-  "version_name": "1.0",
+  "version_name": "1.1",
   "apk_url": "",
   "default_dpi": 200,
-  "changelog": "Khởi tạo danh sách tool",
+  "changelog": "Fix Lỗi DPI",
   "download_links": [
     {
       "name": "Arceus-x QT",
